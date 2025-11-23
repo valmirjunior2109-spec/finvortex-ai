@@ -30,6 +30,6 @@
 
 ###
 
-<h3 align="left">Você pode acessar o MVP aqui:<br>👉 https://fin-vortex-fe245586.base44.app/chat<br><br>Seu feedback é extremamente valioso!<br>Cada detalhe ajuda a evoluir a plataforma.</h3>
+<h3 align="left">Você pode acessar o MVP aqui:<br>👉 https://fin-vortex-fe245586.base44.app<br><br>Seu feedback é extremamente valioso!<br>Cada detalhe ajuda a evoluir a plataforma.</h3>
 
 ###
