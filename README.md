@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">FinVortex AI é uma IA criada para simplificar finanças pessoais e ajudar qualquer pessoa a tomar decisões melhores sobre dinheiro — sem termos difíceis, sem enrolação, sem burocracia.<br>Toda resposta é clara, prática e focada no que realmente importa: fazer você entender e evoluir financeiramente.</h3>
+<h3 align="center">FinVortex AI é uma IA criada para simplificar finanças pessoais e ajudar qualquer pessoa a tomar decisões melhores sobre dinheiro — sem termos difíceis, sem enrolação, sem burocracia.<br>Toda resposta é clara, prática e focada no que realmente importa: fazer você entender e evoluir financeiramente.</h3>
 
 ###
 
